@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+#Justinbieber{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#Justinbieber:hover {
+    transform: scale(0.9);
+}
